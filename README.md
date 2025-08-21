@@ -2,7 +2,7 @@
 
 Ice Cream Pac-Man is a C++ project developed using the Imagine++ graphics library. It is a variation of the classic Pac-Man game where the player controls an ice cream character navigating through a procedurally generated labyrinth. The objective is to collect cherries while avoiding enemies.
 #Demo of the game
-(demo.gif)
+![Game Demo](demo.gif)
 ## Features
 
 - Procedurally generated labyrinths with adjustable size and density
